@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently persuing B.Tech from Chandigarh University, Uttar Pradesh<br>🌱 I’m currently learning some programming languages like c , Html <br>I love solving real world problems with my coding skill<br>
+🔭 I’m currently persuing B.Tech from Chandigarh University, Uttar Pradesh<br>🌱 I’m learning some programming languages like c , Html <br>I love solving real world problems with my coding skill<br>
 
 
 ## 🌐 Socials:
